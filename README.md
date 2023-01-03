@@ -12,3 +12,7 @@ Deploy Link: https://detect-style-interior.vercel.app/
 Front-end: https://github.com/huycuong291/interior-object-detect-frontend
 
 Back-end: https://github.com/huycuong291/interior-object-detect-backend
+<ul>
+  <li>1968. A great year!</li>
+  <li>I think 1969 was second best.</li>
+</ul>
