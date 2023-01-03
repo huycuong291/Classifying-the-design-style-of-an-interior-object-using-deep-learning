@@ -1,18 +1,13 @@
+# 3in1 - Classifying the design style of an interior object using deep learning project
 
-3in1 - Classifying the design style of an interior object using deep learning project
+##  :beginner: Members:
+- Khúc Nguyễn Huy Cường  19110107
+- Nguyễn Đan Trường  19110064
+- Đặng Ngọc Trường Giang 19110107
 
+## :zap: Link
+- Deploy Link: https://detect-style-interior.vercel.app/
 
-Members:
-Khúc Nguyễn Huy Cường - 19110107
-Nguyễn Đan Trường - 19110064
-Đặng Ngọc Trường Giang - 19110107
+- Front-end: https://github.com/huycuong291/interior-object-detect-frontend
 
-Deploy Link: https://detect-style-interior.vercel.app/
-
-Front-end: https://github.com/huycuong291/interior-object-detect-frontend
-
-Back-end: https://github.com/huycuong291/interior-object-detect-backend
-<ul>
-  <li>1968. A great year!</li>
-  <li>I think 1969 was second best.</li>
-</ul>
+- Back-end: https://github.com/huycuong291/interior-object-detect-backend
